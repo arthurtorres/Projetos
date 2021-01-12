@@ -1,4 +1,4 @@
-#Projetos Pessoais 
+Projetos Pessoais 
 
 Netflix : Coleta, Armazenamente e análise dos dados da netflix(até fev/2020). Criação de um sistema de recomendação básico.
 
